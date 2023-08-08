@@ -7,7 +7,6 @@ const crearArchivoTabla = async(base = 5, listar = false, hasta = 10)=>{
  
         let salida = '';
         let consola = '';
-        let consola2 = '';
 
         for (let i=1; i<=hasta; i++){
 
